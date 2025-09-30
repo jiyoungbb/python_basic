@@ -1,6 +1,6 @@
 # Python Basic
 
-**강의**: [인프런 - 파이썬 기초 강의 (프로그래밍 입문)]([https://www.inflearn.com/](https://www.inflearn.com/course/%EC%B2%98%EC%9D%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC))  
+**강의**: [인프런 - 파이썬 기초 강의 (프로그래밍 입문)](https://www.inflearn.com/course/%EC%B2%98%EC%9D%8C-%EB%B0%B0%EC%9A%B0%EB%8A%94-%ED%8C%8C%EC%9D%B4%EC%8D%AC)  
 **수강 기간**: 2025.09.01 ~ (진행 중)
   
 **학습 목표**
